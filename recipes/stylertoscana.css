@@ -1,0 +1,41 @@
+*{
+    background-color: green;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
+    
+}
+
+.topic{
+    color: red;
+    font-size: 32px;
+    font-weight: 800;
+    font-style: oblique;
+}
+
+#properties{
+    font-size: 24px;
+    color: blue;
+    font-style: italic;
+}
+
+#ilist{
+    font-size: 20px;
+    font-style: italic;
+    color: orange;
+}
+
+.dlist1{
+    font-size: 26px;
+    font-style: normal;
+    color: chocolate;
+}
+
+.dlist2{
+    font-size: 20px;
+    font-style: italic;
+    color: chocolate;
+}
+
+
+
+
