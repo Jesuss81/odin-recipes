@@ -1,0 +1,46 @@
+*{
+    background-color: green;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+.topic {
+    font-weight: 800;
+    color: red;
+    font-size: 32px;
+    font-style: normal;
+    text-align: center;
+}
+
+h {
+    color: blue;
+    font-size: 24px;
+}
+
+#first{
+    color: blue;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.property{
+    color: purple;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 800;
+}
+
+.list{
+    text-align: left;
+    color: orange;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#dlist{
+    color: chocolate;
+    font-size: 20px;
+    font-style: italic;
+    text-align: start;
+}
+
